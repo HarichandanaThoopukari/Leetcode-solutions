@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0015-3sum) |
 | [0136-single-number](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0136-single-number) |
+| [0658-find-k-closest-elements](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3467-transform-array-by-parity](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0658-find-k-closest-elements](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0658-find-k-closest-elements](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0015-3sum) |
+| [0658-find-k-closest-elements](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3467-transform-array-by-parity](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 ## Counting
@@ -55,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0136-single-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
