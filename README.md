@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0015-3sum) |
 | [0136-single-number](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0136-single-number) |
 | [0658-find-k-closest-elements](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3467-transform-array-by-parity](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/3467-transform-array-by-parity) |
@@ -76,9 +77,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
