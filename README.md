@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sorting
 |  |
 | ------- |
@@ -75,12 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1544-make-the-string-great](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0682-baseball-game) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1544-make-the-string-great) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
