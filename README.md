@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0015-3sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0136-single-number) |
 | [0658-find-k-closest-elements](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0682-baseball-game) |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
