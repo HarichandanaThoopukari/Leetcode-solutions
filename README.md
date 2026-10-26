@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0946-validate-stack-sequences) |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
