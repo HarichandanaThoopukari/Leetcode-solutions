@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0136-single-number) |
+| [0413-arithmetic-slices](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0658-find-k-closest-elements](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0658-find-k-closest-elements](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0413-arithmetic-slices](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0413-arithmetic-slices) |
 ## Design
 |  |
 | ------- |
