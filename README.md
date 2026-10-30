@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3467-transform-array-by-parity](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 ## Binary Search
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
