@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1025-divisor-game](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1025-divisor-game) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Two Pointers
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0413-arithmetic-slices](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0413-arithmetic-slices) |
+| [1025-divisor-game](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1025-divisor-game) |
 ## Design
 |  |
 | ------- |
@@ -156,4 +158,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
