@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [3467-transform-array-by-parity](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 ## Linked List
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-occurrences-after-bigram](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1078-occurrences-after-bigram) |
 | [1544-make-the-string-great](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 ## Stack
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 ## Brainteaser
 |  |
 | ------- |
