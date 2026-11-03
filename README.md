@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1078-occurrences-after-bigram](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1078-occurrences-after-bigram) |
 | [1544-make-the-string-great](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
