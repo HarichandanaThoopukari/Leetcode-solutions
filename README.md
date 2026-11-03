@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3467-transform-array-by-parity](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/3467-transform-array-by-parity) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1025-divisor-game](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1025-divisor-game) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
