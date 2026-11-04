@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3467-transform-array-by-parity](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/3467-transform-array-by-parity) |
+| [3483-unique-3-digit-even-numbers](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [3483-unique-3-digit-even-numbers](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Brainteaser
 |  |
 | ------- |
@@ -176,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1025-divisor-game) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
