@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1025-divisor-game](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1025-divisor-game) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0413-arithmetic-slices](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [1025-divisor-game](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1025-divisor-game) |
@@ -222,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
