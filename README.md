@@ -228,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
