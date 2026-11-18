@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3364-minimum-positive-sum-subarray](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0658-find-k-closest-elements](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [3364-minimum-positive-sum-subarray](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Memoization
 |  |
