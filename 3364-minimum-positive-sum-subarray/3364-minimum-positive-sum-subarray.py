@@ -12,7 +12,7 @@ class Solution(object):
         for i in range(n):
             s=0
 
-            for j in range(i, min(i+r,n)):
+            for j in range(i,min(i+r,n)):
                 s+=nums[j]
 
                 if j-i+1>=l and s>0:
