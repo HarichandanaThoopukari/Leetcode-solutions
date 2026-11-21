@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0061-rotate-list) |
+| [0143-reorder-list](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0658-find-k-closest-elements](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0143-reorder-list](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Bit Manipulation
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
