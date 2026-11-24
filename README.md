@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3467-transform-array-by-parity](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 ## Linked List
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 ## Stack
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Brainteaser
 |  |
