@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0946-validate-stack-sequences) |
+| [1122-relative-sort-array](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0015-3sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0658-find-k-closest-elements](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [1122-relative-sort-array](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3467-transform-array-by-parity](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/3467-transform-array-by-parity) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1122-relative-sort-array](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -263,4 +266,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/HarichandanaThoopukari/Leetcode-solutions/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
